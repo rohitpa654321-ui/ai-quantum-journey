@@ -1,5 +1,5 @@
 # Day 1: Python Basics
-print("Hello AI World!")
-x = 10
-y = 20
+print("Hello My World!")
+x = 5
+y = 25
 print(f"Sum of {x} and {y} is {x + y}")

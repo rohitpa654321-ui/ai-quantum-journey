@@ -1,2 +1,3 @@
 # ai-quantum-journey
-My Python learning journey and practice codes
+My learning journey in AI and Quantum Computing: Projects, Notes, and Practice Codes
+
